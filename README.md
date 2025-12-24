@@ -9,7 +9,7 @@ To write a program to predict the price of the house and number of occupants in 
 
 ## Algorithm
 Step 1: Input Data
-- Collect dataset with features (independent variables) such as:
+- Collect dataset with features (independent variables) such as
 - Size of house (sq. ft.)
 - Number of rooms
 - Location index
